@@ -43,7 +43,7 @@ gitextbrowser.zip 441 KBytes (0.43 MB)
 Linea di Comando:
 
 GITextBrowser.exe
-url="http://www.iacosoft.com"
+url="https://www.iacosoft.com"
 dest="c:\data\output.txt"
 log="c:\data\output.log"
 
