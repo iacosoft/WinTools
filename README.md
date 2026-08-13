@@ -2,7 +2,10 @@
 Tools per Windows in .NET
 
 https://www.iacosoft.com/home/tools.asp
+
 https://www.iacosoft.com/home/autore.asp
+
+
 
 GI Oracle Profiler v1.4.0
 
@@ -58,6 +61,7 @@ Per poter funzionare richiede la presenza del .NET FrameWork v. 4.0 o versione s
 
 
 
+
 GI ViewEsa v1.0.0
 
 E' un Editor Esadecimale per Windows per modificare qualsiasi file in modalità binaria.
@@ -72,7 +76,6 @@ Sistema Operativo richiesto: Windows XP Service Pack 3; Windows Vista Service Pa
  
 
 Per poter funzionare richiede la presenza del .NET FrameWork v. 4.0 o versione successiva. Se sul S.O. non è presente il .NET FrameWork 4.0 è possibile installarlo scaricandolo dal sito Microsoft: dotNetFx40_Full_x86_x64.exe
- 
 
 
 
